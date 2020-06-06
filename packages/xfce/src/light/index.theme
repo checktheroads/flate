@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Flate
+Comment=Flate theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Flate
+IconTheme=elementary-xfce-dark
+CursorTheme=DMZ-Black
+ButtonLayout=:minimize,maximize,close
